@@ -1,6 +1,6 @@
 Objective
 
-SkillSwap is a web application designed to help students connect with one another, share knowledge, exchange skills, and learn in a more interactive and collaborative environment.
+The SkillSwap project is a web application aimed at assisting students in interacting with each other, exchanging knowledge, practicing skills, and engaging in collaborative learning.
 
 Tools & Technologies Used
 
@@ -10,21 +10,21 @@ Tools & Technologies Used
 - Visual Studio Code
 - Git & GitHub
 
-Project Structure
+Structure of the Project
 
-- index.html – Main webpage structure
-- style.css – Styling and responsive design
-- script.js – Interactive functionality
-- assets/ – Images and resources
+- index.html – Webpage layout
+- style.css – Stylesheet for design
+- script.js – Functional code
+- assets/ – Resources
 
-Steps Performed
+Steps Taken
 
-- Planned the user interface and learning workflow.
-- Designed responsive web pages.
-- Implemented interactive features using JavaScript.
-- Improved navigation and user experience.
-- Tested responsiveness across devices.
+- Developed an idea for user interface and learning process.
+- Built responsive web pages.
+- Added interactivity with JavaScript coding.
+- Enhanced navigability and usability.
+- Made sure that it works on all devices.
 
-Outcome
+Result
 
-Successfully developed a collaborative learning platform prototype that encourages student interaction and knowledge sharing while strengthening front-end development skills.
+A successful prototype of a collaborative learning website was created, allowing students to interact and share their knowledge and developing front-end programming abilities.
